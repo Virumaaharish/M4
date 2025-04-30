@@ -1,9 +1,8 @@
-#  NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
 # EX-16-LEFT-SHIFT-OPERATION
 
 NAME: VIRUMAA HARISH M
- REGISTER NUMBER:212223230246
+REGISTER NUMBER:212223230246
+ 
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
 
